@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=binjahid&color=2ecc71)
 ### Hi there 👋
 
 <!--
