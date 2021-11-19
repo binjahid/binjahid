@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=binjahid&color=2ecc71)
 <img src="https://github.com/binjahid/binjahid/blob/main/img.svg"/>
+<h1 align="center">A passionate frontend developer from Bangladesh</h1>
 
 <!--
 **binjahid/binjahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
