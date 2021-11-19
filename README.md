@@ -19,6 +19,13 @@
 <a href="https://www.facebook.com/jahid.islam.jubayer/">
   <img align="left" alt="Jahid's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
+<br/>
+<br/>
+Hi there, I'm **Muhammad Jahid Islam** and a **Full Stack Web Developer** ( JavaScript & Node.js ) and a  <a href="https://www.fiverr.com/muhammadjahid52?up_rollout=true">
+Freelance Web Developer</a> 🚀 from Bangladesh.  Currently Learning Next.js <img width="30px" fill="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/next-dot-js.svg">. Also Actively looking for an internship opportunity as a Full-Stack or MERN Developer to grow and develop my skills further.  
+
+- 🔭 I’m currently working on  [Appollo](https://www.tryappollo.com/)
 <!--
 **binjahid/binjahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
