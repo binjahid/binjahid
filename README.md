@@ -30,12 +30,33 @@ Hi there, I'm **Muhammad Jahid Islam** and a **Full Stack Web Developer** ( Java
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working as a Freelancer on [Fiverr](https://www.fiverr.com/muhammadjahid52?up_rollout=true)
-- 🌱 I’m currently learning TypeScript with React & Node; 
+- 🌱 I’m currently learning React and its framework Next.js; 
 - 🤔 My interests are with Understanding new Technologies and use them for Impactfull and Secure Projects, I am also interested in Serverless and JAM Stack Developing;
 - 💼 I’m pursuing a Bachelor's degree in Political Science;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via [jahidislamjubayer@gmail.com](mailto:jahidislamjubayer@gmail.com) to reach me.
 - 📝 Resume Comming Soon
+
+
+**Languages and Tools:**  
+
+<code><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></code>
+<code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"></code>
+<code><img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"></code>
+<code><img src="https://img.shields.io/badge/-Express.js-787878?style=flat"></code>
+<code><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"></code>
+<code><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></code>
+<code><img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white"></code>
+<code><img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"></code>
+<code><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"></code>
+<code><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></code>
+<!-- <code><img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"></code> -->
+<code> and more. </code>
+
+![Jahid's github stats](https://github-readme-stats.vercel.app/api?username=binjahid&show_icons=true&hide_border=true)
+![Jahid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=binjahid&show_icons=true&locale=en&layout=compact)
+![Jahid's Contributor Stats](https://github-readme-streak-stats.herokuapp.com/?user=binjahid)
 <!--
 **binjahid/binjahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
