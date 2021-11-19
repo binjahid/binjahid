@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=binjahid&color=2ecc71)
 <img src="https://github.com/binjahid/binjahid/blob/main/img.svg"/>
 <h1 align="center">A passionate frontend developer from Bangladesh</h1>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binjahid&theme=onedark" alt="linkon63" /></a> </p>
 <!--
 **binjahid/binjahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
